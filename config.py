@@ -40,36 +40,7 @@ headers = {
 }
 #
 # #对应替换
-cookies = {
-    'ptcz': '03a14e17fb3e63c2f5f20910cfdfaf303bfbafef46bb38cf11e79506a54d1dc9',
-    'pgv_pvid': '5915400066',
-    'fqm_pvqid': '2b939038-5dea-4db4-b7b7-475a124e202f',
-    'o2_uin': '945266540',
-    'qq_domain_video_guid_verify': 'd580433ca06286e4',
-    '_qimei_uuid42': '18504122425100032708457a7e86f079cb9b43eff5',
-    '_qimei_fingerprint': '17f16a2c4f47e35167705b07c1496dbf',
-    '_qimei_q36': '',
-    '_qimei_h38': '2db8d00d2708457a7e86f07902000008e18504',
-    'o_cookie': '945266540',
-    'eas_sid': '11p7111644B6J3H63782c1q9s1',
-    'LW_uid': 'U1X7q1D6V4A643t6Y9s0S0E3P0',
-    'RK': 'x/kJNQAzSA',
-    'LW_sid': 'z1M731y8y4O2j8j930H1u5s460',
-    'pac_uid': '0_ieb50JsH1RGTK',
-    'suid': 'user_0_ieb50JsH1RGTK',
-    'wr_vid': '274211715',
-    'wr_rt': 'web%40~3hk~Nsctu7j~~uDvDG_AL',
-    'wr_localvid': 'f8c326b0810582383f8cd1a',
-    'wr_name': '200%20ok',
-    'wr_avatar': 'https%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2Fvi_32%2FPiajxSqBRaEIYWk8o7kuQ5heqG6WFVyMz98HeYQokX2Je6LvbtX1yb4fvqOKsO9bicQqx1Wicds7R2yTPdtug8fZu20qojZxCbGDWOwmhNbPpvuMQFE8tjE0w%2F132',
-    'wr_gender': '1',
-    'wr_theme': 'white',
-    'wr_pf': 'NaN',
-    '_clck': '3918809406|1|fsn|0',
-    'wr_skey': 'd6kBbICN',
-    'wr_gid': '226744514',
-    'wr_fp': '3446823249'
-}
+cookies = {}
 
 # 保留| 默认读三体，其它书籍自行测试时间是否增加
 # data = {
